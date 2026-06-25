@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets Webhook Extension",
+  "description": "Generate custom webhook URLs to capture external form data and automatically sync and append rows into Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
